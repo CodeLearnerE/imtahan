@@ -1,0 +1,79 @@
+
+
+.main {
+	border: 1px solid lightgray;
+	width: 960px;
+	height: 900px;
+	margin: auto;
+}
+
+
+h3 {
+	color: #FF0D08;
+	margin-left: 80px;
+}
+
+.heading {
+	background-image: url("http://ingyen-hatterkep.hu/wallpapers/szamitogep/apple/_teljeskep/49416.jpg");
+	background-size: cover;
+	border: 1px solid black;
+	width:800px;
+	height: 400px;
+	margin-left: 80px;
+}
+
+img {
+	width: 500px;
+	margin-left: 80px;
+}
+
+
+.first input {
+	width: 800px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left:80px;
+	color:black;
+}
+
+.second input {
+	width: 800px;
+	height: 50px;
+	margin:3px 80px;
+}
+
+.balaca {
+	width: 195px;
+	height: 25px;
+	border: 1px solid white;
+	margin-left: 685px;
+	margin-top: 3px;
+	background-color:#FF0D08;
+	color: black; 
+}
+
+.balaca input {
+	width: 195px;
+	height: 25px;
+}
+
+
+.small {
+	display: inline-block;
+	width: 195px;
+	height: 25px;
+	border: 1px solid rewhited;
+	margin-left: 5px;
+	margin-top: 30px;
+	background-color: #FF0D08;
+	color: black;
+}
+
+.small input {
+	width: 195px;
+	height: 25px;	
+}
+
+
+
+
